@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "ed85",
+      "cityName": "Mosqueruela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-07T04:17:43.546Z",
+      "notes": "",
+      "position": {
+        "lat": "40.34012905454876",
+        "lng": "-0.3501745702989312"
+      }
+    },
+    {
+      "id": "1ebd",
+      "cityName": "Mosqueruela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-07T04:17:43.546Z",
+      "notes": "",
+      "position": {
+        "lat": "40.36720719842123",
+        "lng": "-0.3275078752656469"
+      }
+    },
+    {
+      "id": "4621",
+      "cityName": "Al Jawf",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2024-05-07T04:25:25.269Z",
+      "notes": "",
+      "position": {
+        "lat": "25.945187646060084",
+        "lng": "21.110443424566235"
+      }
+    },
+    {
+      "id": "f238",
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-05-07T04:43:00.136Z",
+      "notes": "",
+      "position": {
+        "lat": "28.28961498714748",
+        "lng": "28.847354613786035"
+      }
+    },
+    {
+      "id": "123c",
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-05-07T05:05:09.434Z",
+      "notes": "",
+      "position": {
+        "lat": "29.46650318736705",
+        "lng": "31.203060150146488"
+      }
+    },
+    {
+      "id": "2227",
+      "cityName": "l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-07T05:09:05.970Z",
+      "notes": "sdfafd",
+      "position": {
+        "lat": "40.10340028984363",
+        "lng": "-0.1927605331372462"
+      }
+    }
+  ]
+}
